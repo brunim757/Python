@@ -23,7 +23,6 @@ python nome_do_arquivo.py
 🧑‍💻 Autor
 
 brunim757
-📎 GitHub
 
 
 ---

@@ -29,7 +29,3 @@ brunim757
 ---
 
 ⭐ Se este repositório te ajudou ou inspirou, deixe uma estrela para apoiar!
-
----
-
-Se quiser, posso fazer uma **versão ainda mais bonita**, com **emojis discretos, títulos estilizados e destaque visual**, mas mantendo totalmente genérico, sem inventar pastas nem estruturas. Quer que eu faça?
